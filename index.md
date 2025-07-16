@@ -1,6 +1,5 @@
 ---
 layout: default
-title: My GitHub Projects
 ---
 
 # Welcome to My Project Showcase!

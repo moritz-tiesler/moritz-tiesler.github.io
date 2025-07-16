@@ -1,0 +1,9 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/ # If you use Bundler's path option
+
+# Docs subfolder specific
+docs/Gemfile.lock

@@ -1,0 +1,10 @@
+---
+---
+@import "{{ site.theme }}"; /* This imports the minima theme's styles */
+
+/* Your custom styles below */
+.site-title .fa-github {
+  font-size: 1.8em; /* Make the icon larger */
+  color: #333; /* Dark gray color (or whatever you prefer) */
+  margin-right: 5px; /* Add a little space if you ever add text next to it */
+}

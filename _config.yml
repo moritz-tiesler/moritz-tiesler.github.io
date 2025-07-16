@@ -2,13 +2,17 @@
 # title: Moritz' homepage
 # description: >-
 #   Bookmark this to keep an eye on my project updates!
+# title: My Project Portfolio
 
+author: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog
 # For a user page (YOUR_GITHUB_USERNAME.github.io), this should be empty.
 # For a project page (YOUR_GITHUB_USERNAME.github.io/YOUR_PROJECT_NAME), it would be "/YOUR_PROJECT_NAME"
 
 url: "https://moritz-tiesler.github.io" # the base hostname & protocol for your site
+
+github_profile_url: "http://github.com/moritz-tiesler"
 
 # Build settings
 markdown: kramdown
