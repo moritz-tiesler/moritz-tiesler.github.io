@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
+# Site settings
 title: Moritz' homepage
 description: Bookmark this to keep an eye on my project updates!
+
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+# For a user page (YOUR_GITHUB_USERNAME.github.io), this should be empty.
+# For a project page (YOUR_GITHUB_USERNAME.github.io/YOUR_PROJECT_NAME), it would be "/YOUR_PROJECT_NAME"
+
+url: "https://moritz-tiesler.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima # You can choose another theme, but minima is a good default for simplicity.
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
